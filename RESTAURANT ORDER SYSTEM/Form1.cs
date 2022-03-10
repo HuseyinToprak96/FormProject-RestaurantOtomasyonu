@@ -99,8 +99,6 @@ namespace RESTAURANT_ORDER_SYSTEM
                 top += 80;
                 left = 0;
             }
-            
-
         }
         double ucret = 0;
         private void Product_button_MouseClick(object sender, MouseEventArgs e)
@@ -108,7 +106,7 @@ namespace RESTAURANT_ORDER_SYSTEM
             Product p = (Product)((Button)sender).Tag;
            Products_Selected.Add(p);
             ucret += p.ProductPrice;
-            MessageBox.Show("Toplam Ücret: "+ucret.ToString()+" TL");
+            MessageBox.Show("Toplam Ücret: "+ucret.ToString()+" Türk Lirası");
             ((Button)sender).BackColor = Color.Aquamarine;
             ((Button)sender).Enabled = false;
             Button_selected.Add((Button)sender);
