@@ -106,7 +106,7 @@ namespace RESTAURANT_ORDER_SYSTEM
             Product p = (Product)((Button)sender).Tag;
            Products_Selected.Add(p);
             ucret += p.ProductPrice;
-            MessageBox.Show("Toplam Ücret: "+ucret.ToString()+" Türk Lirası");
+            MessageBox.Show("Toplam Ücret: "+ucret.ToString()+" TL");
             ((Button)sender).BackColor = Color.Aquamarine;
             ((Button)sender).Enabled = false;
             Button_selected.Add((Button)sender);
