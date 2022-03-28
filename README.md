@@ -1,0 +1,8 @@
+# FormProject![Giris](https://user-images.githubusercontent.com/101343622/160491743-e343f1c5-fcf8-4e23-8cfd-73ee79026bc5.png)
+![MasaSec](https://user-images.githubusercontent.com/101343622/160491772-5f621c88-b8ad-4f53-b082-632001a6590d.png)
+![YemekSec](https://user-images.githubusercontent.com/101343622/160491789-461cf256-29ab-4a06-8a2f-620f5b7ab2a7.png)
+![GiveUp](https://user-images.githubusercontent.com/101343622/160491844-5d1e8645-cc0e-465b-b842-c5c0560b4e92.png)
+![GiveUpClick](https://user-images.githubusercontent.com/101343622/160491863-c7d793ec-3661-4152-8a1a-c53b653a38ac.png)
+![SiparisiOlanMasayaTıkla](https://user-images.githubusercontent.com/101343622/160491882-cf78faaa-f465-45a3-a366-99a730da0962.png)
+![OdemeAl](https://user-images.githubusercontent.com/101343622/160491890-ebe1f0f1-4eb1-4a05-a10e-d5439638855c.png)
+![AddOrder](https://user-images.githubusercontent.com/101343622/160491915-dc8d90cf-f8fc-411d-b50c-e991aeb7c951.png)
